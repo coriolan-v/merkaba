@@ -3,10 +3,10 @@ DATAFILE AllInOne.fgd
 
 Maximized 1
 WinSize 1328 720
-Viewport 0.158493 0.158493 0.841507 0.841507
+Viewport 0 0 1 1
 OrthoProj 0
 FixedAspect 1
-ViewingAngle -73.1324 -5.13237 -10.5042
+ViewingAngle 30 -15 0
 BKRGB 0 0 0
 Axis 1 255 255 255
 Colorbar 0 0.5 0.5 10 200
@@ -30,7 +30,7 @@ YLim 0 1
 ZLim 0 1
 
 BEGIN_BASICSHAPE
-Name Part_01
+Name Part_01_tiny
 Sample 1
 PointStyle 1
 PointSize 4
@@ -57,7 +57,7 @@ AlphaPos 0 0 0 0 127 0 255 255
 END_BASICSHAPE
 
 BEGIN_BASICSHAPE
-Name Part_02
+Name Part_02_tiny
 Sample 1
 PointStyle 1
 PointSize 4
@@ -111,7 +111,7 @@ AlphaPos 0 0 0 0 127 0 255 255
 END_BASICSHAPE
 
 BEGIN_BASICSHAPE
-Name Part_04_tiny
+Name Part_04
 Sample 1
 PointStyle 1
 PointSize 4
@@ -138,7 +138,7 @@ AlphaPos 0 0 0 0 127 0 255 255
 END_BASICSHAPE
 
 BEGIN_BASICSHAPE
-Name Part_05
+Name Part_05_tiny
 Sample 1
 PointStyle 1
 PointSize 4
@@ -219,7 +219,7 @@ AlphaPos 0 0 0 0 127 0 255 255
 END_BASICSHAPE
 
 BEGIN_BASICSHAPE
-Name Part_08_tiny
+Name Part_08
 Sample 1
 PointStyle 1
 PointSize 4
@@ -246,7 +246,7 @@ AlphaPos 0 0 0 0 127 0 255 255
 END_BASICSHAPE
 
 BEGIN_BASICSHAPE
-Name Part_09
+Name Part_09_tiny
 Sample 1
 PointStyle 1
 PointSize 4
@@ -273,7 +273,7 @@ AlphaPos 0 0 0 0 127 0 255 255
 END_BASICSHAPE
 
 BEGIN_BASICSHAPE
-Name Part_10_tiny
+Name Part_10
 Sample 1
 PointStyle 1
 PointSize 4
@@ -407,6 +407,114 @@ RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
 AlphaPos 0 0 0 0 127 0 255 255
 END_BASICSHAPE
 
+BEGIN_BASICSHAPE
+Name Part_15_tiny
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 208 107 196
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Part_16_tiny
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 48 183 50
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Part_17_tiny
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 246 34 145
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
+BEGIN_BASICSHAPE
+Name Part_18
+Sample 1
+PointStyle 1
+PointSize 4
+LineStyle 0
+LineWidth 1
+BarWidth 1
+3DTxtSize 0.05
+ShowPoint 0
+ShowEdge 0
+ShowSurf 1
+ShowTex 0
+PointColorTable 11
+EdgeColorTable 11
+SurfColorTable -1
+PointRGB 255 255 255
+EdgeRGB 255 255 255
+SurfRGB 157 225 139
+Alpha 1
+ClipBox 0 1 0 1 0 1
+VRMode 1
+RGBPos 0 127 191 255
+RGBColor 0 0 0 0 0 0 1 1 1 1 1 1
+AlphaPos 0 0 0 0 127 0 255 255
+END_BASICSHAPE
+
 CANVASRGB 255 255 255
 RGB 50 250 50
 BK_RGB 50 250 50
@@ -416,10 +524,10 @@ LINE_STYLE 0
 DRAG 1
 RESIZE 1
 LAYER 0
-TXT { Parts: 14
-Weight: 98.9 kg
-Printing: 10989 h
-Assembly: 13 min
-Total time: 10990 h }
+TXT { Parts: 18
+Weight: 111 kg
+Printing: 12301 h
+Assembly: 19 min
+Total time: 12301 h }
 5 5 0 0 0
 24 70 90 400 0 Times New Roman
