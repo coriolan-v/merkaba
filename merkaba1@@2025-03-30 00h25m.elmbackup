@@ -1,0 +1,1091 @@
+<console version="1" appVersion="1.0.0.673">
+  <model fps="30" isStagesAccessRestricted="False" masterOpacity="1" masterSpeed="1">
+    <stages>
+      <stage name="Stage01" id="161313e2-3d39-494d-bf6c-10911f1263da" width="1280" height="720" media="-1" merge="overwrite" hidden="False" locked="False">
+        <live intensity="1" crossfadeMs="2000" fadePosition="0" mixEffect="CrossFade" mixEffectPositionTransform="sigmoid" speed="1">
+          <color red="255" green="255" blue="255" />
+          <zone1 media="2" />
+          <zone2 media="-1" />
+        </live>
+        <fixtures>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="262.077098167098" y="371.974284132869" />
+                <point x="171.337321137734" y="371.974315068492" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="357.537022352117" y="372.058860154727" />
+                <point x="266.797245322753" y="372.05889109035" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="160.662022352111" y="369.808890672307" />
+                <point x="220.374992370611" y="290.249999999999" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="270.999992370609" y="217.124999999996" />
+                <point x="223.087321137735" y="281.974345586068" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="323.874992370609" y="277.874999999996" />
+                <point x="278.212321137742" y="218.974345586068" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="326.037022352115" y="277.558890672308" />
+                <point x="362.124992370609" y="354.374999999996" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="172.697052943002" y="432.519275810858" />
+                <point x="101.215566953812" y="386.765003954821" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="174.357771600185" y="431.099306695114" />
+                <point x="244.389885682594" y="456.591847401339" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="251.477852951948" y="454.311828688588" />
+                <point x="257.445907619562" y="373.903843941452" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="263.439878539255" y="266.312498789554" />
+                <point x="255.329203127261" y="365.456196611453" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="95.6705301877819" y="369.35750711794" />
+                <point x="172.442680137957" y="320.986605458291" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="176.481354770666" y="318.542008411859" />
+                <point x="253.253504720842" y="270.171106752211" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="372.324550799938" y="325.67668035409" />
+                <point x="446.228828725043" y="378.325183084067" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="294.624974252482" y="270.220570836209" />
+                <point x="368.529252177586" y="322.869073566186" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="453.66706223271" y="386.28280517005" />
+                <point x="358.871795822613" y="416.434311594727" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="275.211387847379" y="446.618618567349" />
+                <point x="351.861048235515" y="421.60079991754" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="267.39464310828" y="366.461107211996" />
+                <point x="270.410224435183" y="440.927696389765" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="207.238528847868">
+              <points>
+                <point x="271.502927972312" y="366.120373797296" />
+                <point x="274.575216011013" y="281.30517894103" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="207.238528847868">
+              <points>
+                <point x="676.502927972314" y="381.870373797298" />
+                <point x="679.575216011015" y="297.055178941032" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="672.394643108282" y="382.211107211998" />
+                <point x="675.410224435185" y="456.677696389767" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="680.211387847381" y="462.368618567351" />
+                <point x="756.861048235517" y="437.350799917542" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="858.667062232712" y="402.032805170052" />
+                <point x="763.871795822615" y="432.184311594729" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="699.624974252484" y="285.970570836211" />
+                <point x="773.529252177588" y="338.619073566188" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="777.32455079994" y="341.426680354092" />
+                <point x="851.228828725045" y="394.075183084069" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="581.481354770668" y="334.292008411861" />
+                <point x="658.253504720844" y="285.921106752213" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="500.670530187784" y="385.107507117942" />
+                <point x="577.442680137959" y="336.736605458293" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="668.439878539257" y="282.062498789556" />
+                <point x="660.329203127263" y="381.206196611455" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="656.47785295195" y="470.06182868859" />
+                <point x="662.445907619564" y="389.653843941454" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="579.357771600187" y="446.849306695116" />
+                <point x="649.389885682596" y="472.341847401341" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="577.697052943004" y="448.26927581086" />
+                <point x="506.215566953814" y="402.515003954823" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="731.037022352117" y="293.30889067231" />
+                <point x="767.124992370611" y="370.124999999998" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="728.874992370611" y="293.624999999998" />
+                <point x="683.212321137744" y="234.72434558607" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="675.999992370611" y="232.874999999998" />
+                <point x="628.087321137737" y="297.72434558607" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="565.662022352113" y="385.558890672309" />
+                <point x="625.374992370613" y="306.000000000001" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="762.537022352119" y="387.808860154729" />
+                <point x="671.797245322755" y="387.808891090352" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="667.0770981671" y="387.724284132871" />
+                <point x="576.337321137736" y="387.724315068494" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="1060.8270981671" y="388.849284132874" />
+                <point x="970.087321137739" y="388.849315068497" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="1156.28702235212" y="388.933860154732" />
+                <point x="1065.54724532276" y="388.933891090355" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="959.412022352116" y="386.683890672312" />
+                <point x="1019.12499237062" y="307.125000000004" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="1069.74999237061" y="234.000000000001" />
+                <point x="1021.83732113774" y="298.849345586073" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="1122.62499237061" y="294.750000000001" />
+                <point x="1076.96232113775" y="235.849345586073" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="1124.78702235212" y="294.433890672313" />
+                <point x="1160.87499237061" y="371.250000000001" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="971.447052943007" y="449.394275810863" />
+                <point x="899.965566953817" y="403.640003954826" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="973.10777160019" y="447.974306695119" />
+                <point x="1043.1398856826" y="473.466847401344" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="1050.22785295195" y="471.186828688593" />
+                <point x="1056.19590761957" y="390.778843941457" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="1062.18987853926" y="283.187498789559" />
+                <point x="1054.07920312727" y="382.331196611458" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="894.420530187787" y="386.232507117945" />
+                <point x="971.192680137962" y="337.861605458296" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="147.786715910572">
+              <points>
+                <point x="975.231354770671" y="335.417008411864" />
+                <point x="1052.00350472085" y="287.046106752216" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="1171.07455079994" y="342.551680354095" />
+                <point x="1244.97882872505" y="395.200183084072" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="1093.37497425249" y="287.095570836214" />
+                <point x="1167.27925217759" y="339.744073566191" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="1252.41706223271" y="403.157805170055" />
+                <point x="1157.62179582262" y="433.309311594732" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="1073.96138784738" y="463.493618567354" />
+                <point x="1150.61104823552" y="438.475799917545" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="215.465625852651">
+              <points>
+                <point x="1066.14464310828" y="383.336107212001" />
+                <point x="1069.16022443519" y="457.80269638977" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="207.238528847868">
+              <points>
+                <point x="1070.25292797232" y="382.995373797301" />
+                <point x="1073.32521601102" y="298.180178941035" />
+              </points>
+            </geometry>
+          </fixture>
+        </fixtures>
+        <schedule stopDuringDaylight="False">
+          <playlists />
+        </schedule>
+      </stage>
+      <stage name="Stage02" id="b34aa418-6d62-428b-a3ce-80af5a210f02" width="1280" height="720" media="-1" merge="overwrite" hidden="False" locked="False">
+        <live intensity="1" crossfadeMs="2000" fadePosition="0" mixEffect="CrossFade" mixEffectPositionTransform="sigmoid" speed="1">
+          <color red="255" green="255" blue="255" />
+          <zone1 media="-1" />
+          <zone2 media="-1" />
+        </live>
+        <fixtures>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="412.164375409691" y="286.027391825634" />
+                <point x="616.328758971334" y="286.027391825634" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="628.164344056018" y="284.054800791282" />
+                <point x="832.328727617661" y="284.054800791282" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="841.205463357172" y="289.972630330959" />
+                <point x="759.342465753425" y="436.931506849315" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="750.465712246831" y="436.93153611274" />
+                <point x="668.602714643084" y="583.890412631096" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="650.849315068493" y="582.904109589041" />
+                <point x="514.739742331311" y="467.506835101401" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="501.917808219178" y="451.72602739726" />
+                <point x="412.164378545052" y="301.808215833687" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="58.4997794219581">
+              <points>
+                <point x="502.959369168507" y="331.936121579957" />
+                <point x="583.88868229696" y="177.076589620067" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="58.4997794219581">
+              <points>
+                <point x="468.928918914885" y="527.461596737177" />
+                <point x="496.203534696035" y="351.114092972978" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="58.4997794219581">
+              <points>
+                <point x="645.440455865788" y="536.127398334056" />
+                <point x="477.364143383092" y="543.114167718228" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="58.4997794219581">
+              <points>
+                <point x="818.154913404084" y="536.709272372646" />
+                <point x="650.078600921388" y="543.696041756816" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="58.4997794219581">
+              <points>
+                <point x="711.886302283431" y="351.970209069736" />
+                <point x="818.562569830378" y="526.048551942585" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="58.4997794219581">
+              <points>
+                <point x="597.344013291026" y="168.83107725192" />
+                <point x="704.020280837974" y="342.909420124769" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="58.4997794219581">
+              <points>
+                <point x="468.928918914885" y="527.461596737177" />
+                <point x="598.575342465753" y="417.205479452055" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="58.4997794219581">
+              <points>
+                <point x="603.506849315069" y="180.493150684932" />
+                <point x="598.575342465753" y="417.205479452055" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="2" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="58.4997794219581">
+              <points>
+                <point x="793.86301369863" y="514.849315068493" />
+                <point x="598.575342465753" y="417.205479452055" />
+              </points>
+            </geometry>
+          </fixture>
+        </fixtures>
+        <schedule stopDuringDaylight="False">
+          <playlists />
+        </schedule>
+      </stage>
+      <stage name="AllLines" id="b8a6cf2e-f8d2-4b67-8cda-3c7b7619825d" width="1280" height="720" media="-1" merge="overwrite" hidden="False" locked="False">
+        <live intensity="1" crossfadeMs="2000" fadePosition="0" mixEffect="CrossFade" mixEffectPositionTransform="sigmoid" speed="1">
+          <color red="255" green="255" blue="255" />
+          <zone1 media="-1" />
+          <zone2 media="-1" />
+        </live>
+        <fixtures>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="248.54798639983" y="269.360256405331" />
+                <point x="406.246604640182" y="269.260249864261" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="242.630152176295" y="226.949314913995" />
+                <point x="409.205474596507" y="226.849311287766" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="413.260322796349" y="224.976707511992" />
+                <point x="570.9589410367" y="224.876700970923" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="245.589084589511" y="315.716435002557" />
+                <point x="403.287702829862" y="315.616428461488" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="416.219221889352" y="268.37395545352" />
+                <point x="573.917840129703" y="268.273948912451" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="416.219213110321" y="314.730104369265" />
+                <point x="573.917831350672" y="314.630097828196" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="826.520593320052" y="317.689006388611" />
+                <point x="984.219211560404" y="317.588999847542" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="826.520602099083" y="271.332857472865" />
+                <point x="984.219220339435" y="271.232850931796" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="655.890464799242" y="318.675337021903" />
+                <point x="813.589083039594" y="318.575330480834" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="823.56170300608" y="227.935609531338" />
+                <point x="981.260321246432" y="227.835602990269" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="652.931532386026" y="229.90821693334" />
+                <point x="819.506854806238" y="229.808213307112" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingDown" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="658.849366609561" y="272.319158424677" />
+                <point x="816.547984849913" y="272.219151883607" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="665.753485813726" y="485.360261421922" />
+                <point x="823.452104054078" y="485.260254880852" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="659.835651590191" y="442.949319930585" />
+                <point x="826.410974010403" y="442.849316304357" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="830.465822210245" y="440.976712528583" />
+                <point x="988.164440450597" y="440.876705987514" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="662.794584003407" y="531.716440019148" />
+                <point x="820.493202243759" y="531.616433478079" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="833.424721303248" y="484.37396047011" />
+                <point x="991.1233395436" y="484.273953929041" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="833.424712524217" y="530.730109385856" />
+                <point x="991.123330764569" y="530.630102844787" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="423.123332314486" y="527.77120736651" />
+                <point x="580.821950554837" y="527.671200825441" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="423.123341093517" y="481.415058450765" />
+                <point x="580.821959333868" y="481.315051909696" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="252.493203793676" y="528.757537999802" />
+                <point x="410.191822034027" y="528.657531458733" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="420.164442000514" y="438.017810509237" />
+                <point x="577.863060240865" y="437.917803968168" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="PointingUp" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="249.53427138046" y="439.99041791124" />
+                <point x="416.109593800672" y="439.890414285011" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="255.452105603995" y="482.401359402576" />
+                <point x="413.150723844347" y="482.301352861506" />
+              </points>
+            </geometry>
+          </fixture>
+        </fixtures>
+        <schedule stopDuringDaylight="False">
+          <playlists />
+        </schedule>
+      </stage>
+      <stage name="TriangleDown" id="4ac6ea77-78d4-420e-8061-068694956adb" width="1280" height="720" media="-1" merge="overwrite" hidden="False" locked="False">
+        <live intensity="1" crossfadeMs="2000" fadePosition="0" mixEffect="CrossFade" mixEffectPositionTransform="sigmoid" speed="1">
+          <color red="255" green="255" blue="255" />
+          <zone1 media="-1" />
+          <zone2 media="-1" />
+        </live>
+        <fixtures>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="499.068501582697" y="264.328768468067" />
+                <point x="561.09588330412" y="358.02739621515" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="572.05481716623" y="365.91780183005" />
+                <point x="655.780820245608" y="471.45203953573" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="640.109613358971" y="246.575336076627" />
+                <point x="773.150695800778" y="248.547939561818" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="495.123294012999" y="245.589039305302" />
+                <point x="628.164376454806" y="247.561642790493" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="663.780846653738" y="470.465744527235" />
+                <point x="722.849307961655" y="369.863012653506" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="726.904136415216" y="363.945206197161" />
+                <point x="780.054787413709" y="253.47945100967" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="794.958883696221" y="237.698621657612" />
+                <point x="868.821917808219" y="189.369863013699" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="881.753418039786" y="177.534240290724" />
+                <point x="947.726015691888" y="128.219180694998" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="663.671232876712" y="552.328767123288" />
+                <point x="663.671232876712" y="608.54794520548" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="661.698630136986" y="483.287671232877" />
+                <point x="661.698630136986" y="544.438356164384" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="491.068493150685" y="256.438356164384" />
+                <point x="413.150684931507" y="211.068493150685" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="404.27397260274" y="212.054794520548" />
+                <point x="333.260273972603" y="170.630136986301" />
+              </points>
+            </geometry>
+          </fixture>
+        </fixtures>
+        <schedule stopDuringDaylight="False">
+          <playlists />
+        </schedule>
+      </stage>
+      <stage name="TriangleUp" id="d80c823d-6263-4cb0-8df6-1913fce0bb4a" width="1280" height="720" media="-1" merge="overwrite" hidden="False" locked="False">
+        <live intensity="1" crossfadeMs="2000" fadePosition="0" mixEffect="CrossFade" mixEffectPositionTransform="sigmoid" speed="1">
+          <color red="255" green="255" blue="255" />
+          <zone1 media="-1" />
+          <zone2 media="-1" />
+        </live>
+        <fixtures>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="499.068501582697" y="264.328768468067" />
+                <point x="561.09588330412" y="358.02739621515" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="572.05481716623" y="365.91780183005" />
+                <point x="655.780820245608" y="471.45203953573" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="640.109613358971" y="246.575336076627" />
+                <point x="773.150695800778" y="248.547939561818" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="495.123294012999" y="245.589039305302" />
+                <point x="628.164376454806" y="247.561642790493" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="663.780846653738" y="470.465744527235" />
+                <point x="722.849307961655" y="369.863012653506" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="726.904136415216" y="363.945206197161" />
+                <point x="780.054787413709" y="253.47945100967" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="794.958883696221" y="237.698621657612" />
+                <point x="868.821917808219" y="189.369863013699" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="881.753418039786" y="177.534240290724" />
+                <point x="947.726015691888" y="128.219180694998" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="663.671232876712" y="552.328767123288" />
+                <point x="663.671232876712" y="608.54794520548" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="661.698630136986" y="483.287671232877" />
+                <point x="661.698630136986" y="544.438356164384" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="491.068493150685" y="256.438356164384" />
+                <point x="413.150684931507" y="211.068493150685" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="404.27397260274" y="212.054794520548" />
+                <point x="333.260273972603" y="170.630136986301" />
+              </points>
+            </geometry>
+          </fixture>
+        </fixtures>
+        <schedule stopDuringDaylight="False">
+          <playlists />
+        </schedule>
+      </stage>
+    </stages>
+    <sequences stopSchedulerDuringDaylight="False">
+      <groups />
+    </sequences>
+    <media audioMuted="True">
+      <slots>
+        <slot id="0" name="Welcome to ELM!">
+          <source relativePath="@text&lt;node text=&quot;Welcome to ELM!&quot; fontFamily=&quot;Segoe UI&quot; size2=&quot;8&quot; size3=&quot;8&quot; size4=&quot;0&quot; size5=&quot;0&quot; speed=&quot;1&quot; direction=&quot;left&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="3" />
+        </slot>
+        <slot id="1" name="Circle">
+          <source relativePath="@animation&lt;node animation=&quot;circle&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="4" />
+        </slot>
+        <slot id="2" name="Horizontal swing">
+          <source relativePath="@animation&lt;node animation=&quot;hline&quot; size1=&quot;0.05&quot; size2=&quot;0.3&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; toggle1=&quot;False&quot; direction=&quot;both&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="4" />
+        </slot>
+        <slot id="3" name="Vertical swing">
+          <source relativePath="@animation&lt;node animation=&quot;vline&quot; size1=&quot;0.05&quot; size2=&quot;0.3&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; toggle1=&quot;False&quot; direction=&quot;both&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="4" />
+        </slot>
+        <slot id="4" name="Static">
+          <source relativePath="@animation&lt;node animation=&quot;plain&quot; direction=&quot;none&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="4" />
+        </slot>
+        <slot id="5" name="Radar">
+          <source relativePath="@glsl&lt;node name=&quot;radar.frag&quot; nbItems2=&quot;16&quot; size1=&quot;5.5&quot; size2=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="6" name="Square scroll">
+          <source relativePath="@glsl&lt;node name=&quot;square scroll.frag&quot; nbItems2=&quot;16&quot; size1=&quot;5.5&quot; size2=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="7" name="Lines shifting">
+          <source relativePath="@glsl&lt;node name=&quot;lines shifting.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="8" name="Particles stellar">
+          <source relativePath="@glsl&lt;node name=&quot;particles stellar.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; size7=&quot;330.229954801601&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="9" name="Flaring generator">
+          <source relativePath="@glsl&lt;node name=&quot;flaring generator.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="10" name="Noise flow">
+          <source relativePath="@glsl&lt;node name=&quot;noise flow.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; size7=&quot;54.7919539483606&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="11" name="Particles">
+          <source relativePath="@glsl&lt;node name=&quot;particles.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="12" name="Topologica">
+          <source relativePath="@glsl&lt;node name=&quot;topologica.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+      </slots>
+    </media>
+    <output>
+      <artnet sendPartialFrames="False" sendArtSync="False">
+        <universes />
+      </artnet>
+      <sAcn outputUniverseOffset="0" optimizeFrames="True" priority="100" sendSync="False">
+        <universes />
+      </sAcn>
+      <kinet>
+        <universes />
+      </kinet>
+      <kinetV1>
+        <universes />
+      </kinetV1>
+    </output>
+    <input />
+    <ledPreviewColors>
+      <color type="White" intensity="1" temperature="6600" />
+      <color type="WhiteCool" intensity="0.33" temperature="9000" />
+      <color type="WhiteNeutral" intensity="0.33" temperature="6600" />
+      <color type="WhiteWarm" intensity="0.33" temperature="2700" />
+      <color type="last" intensity="1" temperature="6600" />
+    </ledPreviewColors>
+  </model>
+  <view displayArtnetHexadecimal="False">
+    <previews />
+    <stages>
+      <stage ID="161313e2-3d39-494d-bf6c-10911f1263da">
+        <grid isVisible="False" squareWidth="20" squareHeight="20" squareOffsetX="0" squareOffsetY="0" />
+      </stage>
+      <stage ID="b34aa418-6d62-428b-a3ce-80af5a210f02">
+        <grid isVisible="False" squareWidth="20" squareHeight="20" squareOffsetX="0" squareOffsetY="0" />
+      </stage>
+      <stage ID="b8a6cf2e-f8d2-4b67-8cda-3c7b7619825d">
+        <grid isVisible="False" squareWidth="20" squareHeight="20" squareOffsetX="0" squareOffsetY="0" />
+      </stage>
+      <stage ID="4ac6ea77-78d4-420e-8061-068694956adb">
+        <grid isVisible="False" squareWidth="20" squareHeight="20" squareOffsetX="0" squareOffsetY="0" />
+      </stage>
+      <stage ID="d80c823d-6263-4cb0-8df6-1913fce0bb4a">
+        <grid isVisible="False" squareWidth="20" squareHeight="20" squareOffsetX="0" squareOffsetY="0" />
+      </stage>
+    </stages>
+    <stage3Ds />
+  </view>
+</console>

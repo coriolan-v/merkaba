@@ -1,0 +1,191 @@
+<console version="1" appVersion="1.0.0.673">
+  <model fps="30" isStagesAccessRestricted="False" masterOpacity="1" masterSpeed="1">
+    <stages>
+      <stage name="Stage01" id="161313e2-3d39-494d-bf6c-10911f1263da" width="1280" height="720" media="-1" merge="overwrite" hidden="False" locked="False">
+        <live intensity="1" crossfadeMs="2000" fadePosition="0" mixEffect="CrossFade" mixEffectPositionTransform="sigmoid" speed="1">
+          <color red="255" green="255" blue="255" />
+          <zone1 media="2" />
+          <zone2 media="-1" />
+        </live>
+        <fixtures>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="629.952105796491" y="395.599284132868" />
+                <point x="539.212328767127" y="395.599315068491" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="725.412029981511" y="395.683860154726" />
+                <point x="634.672252952147" y="395.683891090349" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="528.537029981504" y="393.433890672306" />
+                <point x="588.250000000005" y="313.874999999998" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="638.875000000003" y="240.749999999995" />
+                <point x="590.962328767128" y="305.599345586067" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="691.750000000003" y="301.499999999995" />
+                <point x="646.087328767135" y="242.599345586067" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="0">
+              <points>
+                <point x="693.912029981509" y="301.183890672307" />
+                <point x="730.000000000003" y="377.999999999995" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="180.199707459166">
+              <points>
+                <point x="471.191041533532" y="417.149586895414" />
+                <point x="435.371036787964" y="340.208157922938" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="180.199707459166">
+              <points>
+                <point x="473.354160195207" y="416.84101534213" />
+                <point x="518.811253129175" y="475.900471286987" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="180.199707459166">
+              <points>
+                <point x="526.017092106326" y="477.774944540277" />
+                <point x="574.155507646236" y="413.092994686255" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="180.199707459166">
+              <points>
+                <point x="636.886578543496" y="325.476569382183" />
+                <point x="576.896665108436" y="404.826844488781" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="180.199707459166">
+              <points>
+                <point x="440.020616838441" y="322.540396768313" />
+                <point x="530.759842773892" y="322.856643467578" />
+              </points>
+            </geometry>
+          </fixture>
+          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="1" startAddress="0" breakUniverseAfter="0">
+            <geometry nbLeds="5" type="line" rotation="180.199707459166">
+              <points>
+                <point x="535.479666355448" y="322.957702199477" />
+                <point x="626.218892290899" y="323.273948898742" />
+              </points>
+            </geometry>
+          </fixture>
+        </fixtures>
+        <schedule stopDuringDaylight="False">
+          <playlists />
+        </schedule>
+      </stage>
+    </stages>
+    <sequences stopSchedulerDuringDaylight="False">
+      <groups />
+    </sequences>
+    <media audioMuted="True">
+      <slots>
+        <slot id="0" name="Welcome to ELM!">
+          <source relativePath="@text&lt;node text=&quot;Welcome to ELM!&quot; fontFamily=&quot;Segoe UI&quot; size2=&quot;8&quot; size3=&quot;8&quot; size4=&quot;0&quot; size5=&quot;0&quot; speed=&quot;1&quot; direction=&quot;left&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="3" />
+        </slot>
+        <slot id="1" name="Circle">
+          <source relativePath="@animation&lt;node animation=&quot;circle&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="4" />
+        </slot>
+        <slot id="2" name="Horizontal swing">
+          <source relativePath="@animation&lt;node animation=&quot;hline&quot; size1=&quot;0.05&quot; size2=&quot;0.3&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; toggle1=&quot;False&quot; direction=&quot;both&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="4" />
+        </slot>
+        <slot id="3" name="Vertical swing">
+          <source relativePath="@animation&lt;node animation=&quot;vline&quot; size1=&quot;0.05&quot; size2=&quot;0.3&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; toggle1=&quot;False&quot; direction=&quot;both&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="4" />
+        </slot>
+        <slot id="4" name="Static">
+          <source relativePath="@animation&lt;node animation=&quot;plain&quot; direction=&quot;none&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="4" />
+        </slot>
+        <slot id="5" name="Radar">
+          <source relativePath="@glsl&lt;node name=&quot;radar.frag&quot; nbItems2=&quot;16&quot; size1=&quot;5.5&quot; size2=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="6" name="Square scroll">
+          <source relativePath="@glsl&lt;node name=&quot;square scroll.frag&quot; nbItems2=&quot;16&quot; size1=&quot;5.5&quot; size2=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="7" name="Lines shifting">
+          <source relativePath="@glsl&lt;node name=&quot;lines shifting.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="8" name="Particles stellar">
+          <source relativePath="@glsl&lt;node name=&quot;particles stellar.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; size7=&quot;330.229954801601&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="9" name="Flaring generator">
+          <source relativePath="@glsl&lt;node name=&quot;flaring generator.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="10" name="Noise flow">
+          <source relativePath="@glsl&lt;node name=&quot;noise flow.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; size7=&quot;54.7919539483606&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="11" name="Particles">
+          <source relativePath="@glsl&lt;node name=&quot;particles.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+        <slot id="12" name="Topologica">
+          <source relativePath="@glsl&lt;node name=&quot;topologica.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+        </slot>
+      </slots>
+    </media>
+    <output>
+      <artnet sendPartialFrames="False" sendArtSync="False">
+        <universes />
+      </artnet>
+      <sAcn outputUniverseOffset="0" optimizeFrames="True" priority="100" sendSync="False">
+        <universes />
+      </sAcn>
+      <kinet>
+        <universes />
+      </kinet>
+      <kinetV1>
+        <universes />
+      </kinetV1>
+    </output>
+    <input />
+    <ledPreviewColors>
+      <color type="White" intensity="1" temperature="6600" />
+      <color type="WhiteCool" intensity="0.33" temperature="9000" />
+      <color type="WhiteNeutral" intensity="0.33" temperature="6600" />
+      <color type="WhiteWarm" intensity="0.33" temperature="2700" />
+      <color type="last" intensity="1" temperature="6600" />
+    </ledPreviewColors>
+  </model>
+  <view displayArtnetHexadecimal="False">
+    <previews />
+    <stages>
+      <stage ID="161313e2-3d39-494d-bf6c-10911f1263da">
+        <grid isVisible="False" squareWidth="20" squareHeight="20" squareOffsetX="0" squareOffsetY="0" />
+      </stage>
+    </stages>
+    <stage3Ds />
+  </view>
+</console>
