@@ -2,14 +2,14 @@
   <model fps="30" isStagesAccessRestricted="False" masterOpacity="1" masterSpeed="1">
     <stages>
       <stage name="testHW" id="51927db1-76ab-4472-aed9-42ae0f837fcb" width="1280" height="720" media="-1" merge="overwrite" hidden="False" locked="False">
-        <live intensity="1" crossfadeMs="2000" fadePosition="0" mixEffect="CrossFade" mixEffectPositionTransform="sigmoid" speed="1">
+        <live intensity="0" crossfadeMs="2000" fadePosition="0" mixEffect="CrossFade" mixEffectPositionTransform="sigmoid" speed="1">
           <color red="255" green="255" blue="255" />
-          <zone1 media="31" />
+          <zone1 media="82" />
           <zone2 media="17" />
         </live>
         <fixtures>
           <fixture group="ALL" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="0" breakUniverseAfter="0">
-            <geometry nbLeds="510" type="line" rotation="0">
+            <geometry nbLeds="400" type="line" rotation="0">
               <points>
                 <point x="0" y="0" />
                 <point x="1279" y="0" />
@@ -696,14 +696,6 @@
               </points>
             </geometry>
           </fixture>
-          <fixture group="RGB01" group2="" ledType="RGB" dmxProtocol="ArtNet" startUniverse="0" startAddress="69" breakUniverseAfter="0">
-            <geometry nbLeds="4" type="line" rotation="0">
-              <points>
-                <point x="363.945211089642" y="594.73970099508" />
-                <point x="646.904109589041" y="594.739726027397" />
-              </points>
-            </geometry>
-          </fixture>
         </fixtures>
         <schedule stopDuringDaylight="False">
           <playlists />
@@ -908,7 +900,7 @@
           <source relativePath="@glsl&lt;node name=&quot;particles party.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
         </slot>
         <slot id="64" name="Particles radial">
-          <source relativePath="@glsl&lt;node name=&quot;particles radial.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;0.1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;60&quot; green=&quot;255&quot; blue=&quot;0&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
+          <source relativePath="@glsl&lt;node name=&quot;particles radial.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
         </slot>
         <slot id="65" name="Particles stellar">
           <source relativePath="@glsl&lt;node name=&quot;particles stellar.frag&quot; nbItems=&quot;3&quot; size1=&quot;5.5&quot; size3=&quot;0&quot; size4=&quot;0&quot; size5=&quot;0&quot; size6=&quot;0&quot; size7=&quot;330.229954801601&quot; speed=&quot;1&quot; timeOffset=&quot;0&quot; tileX=&quot;none&quot; tileY=&quot;none&quot; color=&quot;normal&quot;&gt;&lt;colors&gt;&lt;color red=&quot;255&quot; green=&quot;255&quot; blue=&quot;255&quot; /&gt;&lt;/colors&gt;&lt;remote /&gt;&lt;/node&gt;" type="7" />
